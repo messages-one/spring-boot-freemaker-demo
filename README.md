@@ -8,3 +8,6 @@ Spring-Boot templating demo
   pebble
   themyeleaf
 
+### the article
+
+  https://dzone.com/articles/template-engines-at-one-spring-boot-and-engines-se
